@@ -24,7 +24,8 @@ function pg_register_easynight_style() {
 		'1.0.0'
 	);
 }
-add_action( 'wp_register_style', 'pg_register_easynight_style' );
+add_action( 'wp_enqueue_scripts', 'pg_register_easynight_style' );
+add_action( 'admin_enqueue_scripts', 'pg_register_easynight_style' );
 
 /**
  * Add that new stylesheet as an option for the SyntaxHighligher Evolved plugin.
