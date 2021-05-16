@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: SyntaxHighlighter Evolved: pgEasyNight Theme
- * Plugin URI: http://wordpress.org/plugins/
+ * Plugin URI: https://github.com/pgsfredda/syntaxhighlighter-pgeasynight
  * Description: pg Easy Night Theme for the SyntaxHighligher Evolved plugin
  * Author: P.G.Sfredda
  * Version: 1.0.0
