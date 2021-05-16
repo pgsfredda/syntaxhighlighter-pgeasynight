@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: Syntax Tomorrow
+ * Plugin Name: SyntaxHighlighter Evolved pgEasyNight Theme
  * Plugin URI: http://wordpress.org/plugins/
- * Description: Tomorrow Theme for the SyntaxHighligher Evolved plugin
+ * Description: pg Easy Night Theme for the SyntaxHighligher Evolved plugin
  * Author: P.G.Sfredda
  * Version: 1.0.0
  * Author URI: https://paologabrielesfredda.it https://creativaweb.it
