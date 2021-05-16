@@ -19,7 +19,7 @@
  */
 function pg_register_easynight_style() {
 	wp_register_style( 'syntaxhighlighter-theme-pgeasynight',
-		content_url( 'pgEasyNight.css' , __FILE__ ),
+		plugins_url( 'pgEasyNight.css' , __FILE__ ),
 		array( 'syntaxhighlighter-core' ),
 		'1.0.0'
 	);
